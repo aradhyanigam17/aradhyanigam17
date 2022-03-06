@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aradhya Nigam</h1>
 <h3 align="center">A Passionate Backend developer from India Working on Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhyanigam17&label=Profile%20views&color=0e75b6&style=flat" alt="aradhyanigam17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradhyanigam17" alt="aradhyanigam17" /></a> </p>
 
