@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Java Advance**
+- 🌱 I’m currently learning **Advance Java**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
