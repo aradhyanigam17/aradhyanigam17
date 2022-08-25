@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java Core**
 
-- 📫 How to reach me **aradhyanigam35@gmail.com**
+- 📫 How to reach me **aradhyanigam05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
